@@ -13,8 +13,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.4.0"
+    "require": { 
+  "mavinoo/Laravel-sms-iran":
     },
     "autoload": {
         "psr-4": {
